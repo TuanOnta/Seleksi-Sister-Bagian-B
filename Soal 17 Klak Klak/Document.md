@@ -78,3 +78,10 @@ Berikut adalah beberapa contoh penggunaan program beserta hasilnya:
   Masukkan ekspresi aritmatika: 2 ^ 3
   Hasil dari '2 ^ 3' adalah: 8
   ```
+
+- **Ekspresi yang lebih rumit**:
+```bash
+Masukkan ekspresi aritmatika: 12+42-32/2*10^2
+Hasil dari '12+42-32/2*10^2' adalah: 72900
+```
+

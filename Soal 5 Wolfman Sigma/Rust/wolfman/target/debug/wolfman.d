@@ -1,0 +1,1 @@
+C:\coding\Seleksi\ Sister\Seleksi_Bagian_B_Sister\Soal\ 5\ Wolfman\ Sigma\Rust\wolfman\target\debug\wolfman.exe: C:\coding\Seleksi\ Sister\Seleksi_Bagian_B_Sister\Soal\ 5\ Wolfman\ Sigma\Rust\wolfman\src\main.rs

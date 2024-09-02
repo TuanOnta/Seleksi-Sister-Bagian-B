@@ -64,7 +64,7 @@ int main() {
     };
 
     int num_commands = sizeof(commands) / sizeof(commands[0]);
-    int num_cores = 10;
+    int num_cores = 8;
 
     for (int i = 0; i < num_commands; i += num_cores) {
         pthread_t threads[num_cores];

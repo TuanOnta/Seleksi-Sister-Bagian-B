@@ -10,6 +10,6 @@ def generate_random_matrix(n, filename):
         for row in matrix:
             f.write(" ".join(map(str, row)) + "\n")
 
-n = 2  # ukuran matrix
+n = 135  # ukuran matrix
 filename = "input.txt"
 generate_random_matrix(n, filename)

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Seleksi_Bagian_B_Sister
-=======
 # Kalkulator Klak Klak
 
 ## Deskripsi
@@ -81,4 +78,3 @@ Berikut adalah beberapa contoh penggunaan program beserta hasilnya:
   Masukkan ekspresi aritmatika: 2 ^ 3
   Hasil dari '2 ^ 3' adalah: 8
   ```
->>>>>>> 924484e (feat: add Soal 17 Klak Klak)

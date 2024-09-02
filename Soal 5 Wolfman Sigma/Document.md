@@ -20,10 +20,67 @@
 - **Perkalian Matriks Secara Paralel:** Program mengalikan kedua matriks secara paralel menggunakan method `multiply_parallel`, yang memanfaatkan `IntStream` untuk menjalankan operasi secara paralel.
 - **Perbandingan Hasil:** Program membandingkan hasil perkalian matriks dari kedua metode untuk memastikan bahwa hasilnya sama, dan mencetak waktu eksekusi dari kedua metode.
 
-### Kesimpulan Umum
-Ketiga program ini menunjukkan bagaimana bahasa pemrograman yang berbeda dapat digunakan untuk menyelesaikan masalah yang sama dengan pendekatan yang mirip. Perbedaan utama antara ketiganya terletak pada cara mereka menangani paralelisme:
-- **Go** menggunakan goroutine.
-- **Python** menggunakan multiprocessing.
-- **Rust** menggunakan `rayon` untuk parallel iterators.
+### Hasil Test Case
+## Python
+# 32x32
+![32x32](HasilTC/Python/32.png)
+# 64x64
+![64x64](HasilTC/Python/64.png)
+# 128x128
+![128x128](HasilTC/Python/128.png)
+# 256x256
+![256x256](HasilTC/Python/256.png)
+# 512x512
+![512x512](HasilTC/Python/512.png)
+# 1024x1024
+![1024x1024](HasilTC/Python/1024.png)
+# 2048x2048
+![2048x2048](HasilTC/Python/2048.png)
 
-Ketiganya kemudian membandingkan hasil perkalian matriks dan mengukur performa kedua pendekatan, paralel dan sekuensial, untuk melihat mana yang lebih efisien dalam konteks perkalian matriks.
+## Rust
+# 32x32
+![32x32](HasilTC/Rust/32.png)
+# 64x64
+![64x64](HasilTC/Rust/64.png)
+# 128x128
+![128x128](HasilTC/Rust/128.png)
+# 256x256
+![256x256](HasilTC/Rust/256.png)
+# 512x512
+![512x512](HasilTC/Rust/512.png)
+# 1024x1024
+![1024x1024](HasilTC/Rust/1024.png)
+# 2048x2048
+![2048x2048](HasilTC/Rust/2048.png)
+
+## Java
+# 32x32
+![32x32](HasilTC/Java/32.png)
+# 64x64
+![64x64](HasilTC/Java/64.png)
+# 128x128
+![128x128](HasilTC/Java/128.png)
+# 256x256
+![256x256](HasilTC/Java/256.png)
+# 512x512
+![512x512](HasilTC/Java/512.png)
+# 1024x1024
+![1024x1024](HasilTC/Java/1024.png)
+# 2048x2048
+![2048x2048](HasilTC/Java/2048.png)
+
+## Go
+# 32x32
+![32x32](HasilTC/Go/32.png)
+# 64x64
+![64x64](HasilTC/Go/64.png)
+# 128x128
+![128x128](HasilTC/Go/128.png)
+# 256x256
+![256x256](HasilTC/Go/256.png)
+# 512x512
+![512x512](HasilTC/Go/512.png)
+# 1024x1024
+![1024x1024](HasilTC/Go/1024.png)
+# 2048x2048
+![2048x2048](HasilTC/Go/2048.png)

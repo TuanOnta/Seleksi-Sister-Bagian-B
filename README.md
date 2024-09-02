@@ -2,15 +2,6 @@
 
 Repository ini berisi jawaban untuk Seleksi Bagian B dari Laboratorium Sistem Terdistribusi. Setiap jawaban telah diimplementasikan dan diuji dengan baik sesuai dengan instruksi yang diberikan.
 
-## Daftar Isi
-
-1. [Pendahuluan](#pendahuluan)
-2. [Struktur Direktori](#struktur-direktori)
-
-## Pendahuluan
-
-Jawaban pada repository ini mencakup berbagai aspek pemrograman dan konsep yang relevan dengan Sistem Terdistribusi. Setiap tugas telah dikerjakan dengan seksama untuk memenuhi persyaratan yang ditetapkan.
-
 ## Struktur Direktori
 
 ```

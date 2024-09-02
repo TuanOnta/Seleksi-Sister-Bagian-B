@@ -5,12 +5,12 @@ Repository ini berisi jawaban untuk Seleksi Bagian B dari Laboratorium Sistem Te
 ## Spesifikasi yang dikerjakan
 
 
--**Soal 3 2nm Transister**
--**Soal 5 Wolfman Sigma**
--**Soal 12 Benchmark**
--**Soal 16 BMI**
--**Soal 17 Klak Klak**
--**Soal 18 TTKI**
+- **Soal 3 2nm Transister**
+- **Soal 5 Wolfman Sigma**
+- **Soal 12 Benchmark**
+- **Soal 16 BMI**
+- **Soal 17 Klak Klak**
+- **Soal 18 TTKI**
 
 ---
 **Muhammad Dzaki Arta**
